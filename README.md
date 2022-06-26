@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamnwilson
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and a little Node.js
 - 📫 How to reach me:
     email - nick.wilson160002@gmail.com
 
